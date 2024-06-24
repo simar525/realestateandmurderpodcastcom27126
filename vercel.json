@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://www.realestateandmurderpodcast.com/$1"
+ }
+  ]
+}
